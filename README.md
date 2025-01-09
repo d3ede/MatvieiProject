@@ -1,5 +1,5 @@
 # TA GIT ülesanded
-<a name="readme-top">
+<a name="readme-top"></a>
 ## TODO list - mida vaja projektis teha
 Arvestuse saamiseks on vaja teha:
 * Kõik GIT Ülesandeid
